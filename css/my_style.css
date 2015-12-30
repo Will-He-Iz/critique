@@ -25,12 +25,17 @@ body {
 /* Content Section
 ==============================*/
 
-.interpretations {
+.evernote_analysis {
   background-color: #f3f3f3;
 }
 
 .text {
-  padding: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.judgement {
+  background-color: #f3f3f3;
 }
 
 .col-sm-6 p {

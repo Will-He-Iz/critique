@@ -11,6 +11,10 @@ body {
 /* Jumbotron
 ==============================*/
 
+.jumbotron {
+  background-color: lightgreen;
+}
+
 .jumbotron h1 {
   padding-left: 10px;
   padding-right: 10px;

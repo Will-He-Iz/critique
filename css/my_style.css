@@ -1,0 +1,39 @@
+/* Body
+==============================*/
+
+body {
+  margin-top: 50px;
+}
+
+
+
+
+/* Jumbotron
+==============================*/
+
+.jumbotron h1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.lead {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+/* Content Section
+==============================*/
+
+.content {
+  padding: 10px;
+}
+
+
+/* Buttons, Icons
+==============================*/
+
+.icon {
+  display: inline-block;
+  font-size: 8em;
+}

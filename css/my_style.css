@@ -25,15 +25,33 @@ body {
 /* Content Section
 ==============================*/
 
-.content {
-  padding: 10px;
+.interpretations {
+  background-color: #f3f3f3;
 }
 
+.text {
+  padding: 15px;
+}
+
+.col-sm-6 p {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col-md-12 p {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.col-sm-6  {
+  padding-left: 15px;
+  padding-right: 15px;
+}
 
 /* Buttons, Icons
 ==============================*/
 
 .icon {
-  display: inline-block;
   font-size: 8em;
+  line-height: inherit;
 }
